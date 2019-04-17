@@ -1,4 +1,4 @@
-package com.example.hellotoastpractical3;
+package com.example.LV_HelloToast;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
